@@ -3,10 +3,9 @@ Comprehensive Guide on how to build GraphQL APIs in RUST
 
 
 ### Run App
-
-    ```bash
+```bash
     cargo run
-    ```
+```
 
 # Subscribe to my youtube Channel 🎥
 
